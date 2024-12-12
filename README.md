@@ -137,3 +137,13 @@ This project highlights the potential of **Microsoft Azure services** for buildi
 Feel free to contribute or suggest improvements!  
 
 ---
+
+---
+
+## 🎥 Credits
+This project was inspired and guided by the excellent tutorial series created by [Darshil Parmar](https://github.com/darshilparmar).  
+Check out his YouTube channel for the full tutorial series: [Darshil Parmar - YouTube](https://www.youtube.com/@DarshilParmar).
+
+Tutorial video for this project: [Tokyo 2021 Olympics ETL Pipeline Tutorial](https://www.youtube.com/watch?v=IaA9YNlg5hM&list=PLBJe2dFI4sgvQTNNkI3ETYJgNPR4CBpFd&index=6).
+
+---
