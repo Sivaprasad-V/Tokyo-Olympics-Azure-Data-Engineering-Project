@@ -1,7 +1,5 @@
 # Tokyo-Olympics-Azure-Data-Engineering-Project
 
-Here’s a revised README file without any images:  
-
 ---
 
 # Azure-Based ETL Pipeline for Tokyo 2021 Olympics Dataset  
